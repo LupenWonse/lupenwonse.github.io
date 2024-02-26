@@ -13,3 +13,7 @@ Bir de GitHub Pages ile sorunsuz çalışması gerekiyor. Onu bu yazıyı yayın
 Asıl vaktimi yiyip biteren github'a basit bir __iteleme__ işlemi yapmak oldu. Epey bir süre kişisel tokenimi kabul ettiremedim github'a. Sonunda anladım ki ana bilgisayarımdan, sanal makineye (Jekyll'ı ana makineme kurmaktansa bir linux VM açıverdim) şifrenin içindeki _ karakteri - buna dönüşüvermiş. Anlayabilen beri gelsin.
 
 Bu sepeble de bugün oyuna birşeyler eklemek, bakmak, dokanmak nasip olmadı. Bakalım eğer blog daha fazla sorun çıkarmazsa birşeyler karalarız belki...
+
+### Yatmadan once karalamalar
+
+Tam beklediğim gibi ilk güncellemeden sonra güncellemeler çalışmamaya başladı bile. Bu ufak notu düşüyorum ki bakalım şimdi çalışacak mı.
