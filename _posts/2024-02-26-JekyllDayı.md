@@ -17,3 +17,10 @@ Bu sepeble de bugün oyuna birşeyler eklemek, bakmak, dokanmak nasip olmadı. B
 ### Yatmadan once karalamalar
 
 Tam beklediğim gibi ilk güncellemeden sonra güncellemeler çalışmamaya başladı bile. Bu ufak notu düşüyorum ki bakalım şimdi çalışacak mı.
+
+### Bugün neler yaptık
+1. Vukuat resimlerini güzel gösterebilmek için bir kaç ayar yaptık. Bunların en önemlisi resimleri Clamped Sampler'a almaktı. Anladığım kadarıyla bu resmin altının üstüne akmasını engelliyor. Eğer bu yapılmazsa resimlerin tepesinde salak bir çizgi oluşuyor.
+
+2. Vukuat lara girerkenki bakış olayını biraz daha toparladım. Dışardan bir fonksiyonla nasıl çağıralabileceğini gördük. BP'de fonksiyonlar hemen dönüş yaptığından dolayı, fonksiyonun içerisnden dışarıdaki bir event çağırmamız gerekiyor.
+
+Kendime not, buralara artık yavaştan ekran görüntüleri koymak lazım.
