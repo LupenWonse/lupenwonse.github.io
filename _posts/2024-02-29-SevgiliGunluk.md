@@ -1,3 +1,7 @@
+---
+title: Sevgili günlük
+author: Lupen Wonse
+---
 Bugün ancak kısa birşeyler yapabilirim gibi görünüyor.
 
 Plan'a eklenecek bazı şeyler var.
@@ -10,4 +14,6 @@ Hala genel olarak bütün hikaye nasıl yönetilecek bilemiyorum, ama şimdilik 
 
 Bu arada hala nasıl postlara resim ekleniyor denemedim... Bi deneyeyim
 
-![imageTitle](BP_Pusula_Screenshot_01.png)
+![imageTitle]({% link /assets/images/BP_Pusula_Screenshot_01.png %})
+
+Biraz fazla vakit aldi ama sonunda becerdim... :)
